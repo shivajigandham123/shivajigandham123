@@ -36,7 +36,7 @@
 
 ###
 
-<h4 align="left">I'm shivaji.<br><br>- 🔭 B.Tech 3rd year.<br>- 📚 In gokaraju rangaraju institute of engineering and technology<br>- ⚡ In my free time I ...</h4>
+<h4 align="left">I'm shivaji.<br><br>- 🔭 B.Tech 3rd year (information technology📚 ).<br>- 📚 In gokaraju rangaraju institute of engineering and technology<br>- ⚡ In my free time I ...</h4>
 
 ###
 
